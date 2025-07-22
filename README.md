@@ -135,6 +135,10 @@
     <p><em>(Para atualização futura)</em></p>
   </div>
   
+
+    <a href="mailto:gotagames.co@gmail.com?subject=Ideia%20para%20jogo&body=Olá%20Gota%20Games%2C%20tenho%20uma%20ideia%20legal!">
+Enviar sugestão para a Gota Games
+</a>
   <footer>
   <p>© 2025, Gota Games. Todos os direitos reservados.</p>
 </footer>
